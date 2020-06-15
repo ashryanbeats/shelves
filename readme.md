@@ -19,3 +19,5 @@ chmod u+x index.js # first run only
 -v    Display the current version
 -h    Display help and usage details
 ```
+
+![](./shelves.jpg)
